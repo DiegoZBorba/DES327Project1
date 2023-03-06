@@ -1,0 +1,197 @@
+/*Kepler Font*/
+@import url("https://p.typekit.net/p.css?s=1&k=hsp0qqq&ht=tk&f=18060.18065.18184.18189.18190.18191&a=121805816&app=typekit&e=css");
+
+@font-face {
+    font-family: "kepler-std-condensed-display";
+    src: url("https://use.typekit.net/af/610db5/000000000000000000012faa/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/610db5/000000000000000000012faa/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/610db5/000000000000000000012faa/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "kepler-std-condensed-display";
+    src: url("https://use.typekit.net/af/c06d63/000000000000000000012faf/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/c06d63/000000000000000000012faf/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/c06d63/000000000000000000012faf/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "kepler-std-display";
+    src: url("https://use.typekit.net/af/86da46/000000000000000000013026/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/86da46/000000000000000000013026/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/86da46/000000000000000000013026/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "kepler-std-display";
+    src: url("https://use.typekit.net/af/74a78f/00000000000000000001302b/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/74a78f/00000000000000000001302b/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/74a78f/00000000000000000001302b/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 400;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "kepler-std-display";
+    src: url("https://use.typekit.net/af/02f053/00000000000000000001302c/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"), url("https://use.typekit.net/af/02f053/00000000000000000001302c/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"), url("https://use.typekit.net/af/02f053/00000000000000000001302c/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
+    font-display: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-stretch: normal;
+}
+
+@font-face {
+    font-family: "kepler-std-display";
+    src: url("https://use.typekit.net/af/2abdf1/00000000000000000001302d/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"), url("https://use.typekit.net/af/2abdf1/00000000000000000001302d/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"), url("https://use.typekit.net/af/2abdf1/00000000000000000001302d/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
+    font-display: auto;
+    font-style: italic;
+    font-weight: 600;
+    font-stretch: normal;
+}
+
+header {
+    position: fixed;
+    top: 20px;
+    overflow: auto;
+    box-sizing: border-box;
+    width: 100%;
+    padding: 30px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+body {
+    background-color: #000;
+    color: #fff;
+    background-image: url(Content/Texturelabs_Grunge_301M.jpg);
+    font-size: 24px;
+    /*    height: 100vh;*/
+    /*    width: 100vw;*/
+    margin: 0;
+    padding: 0;
+}
+
+.cart_and_social {}
+
+.nav {}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+
+}
+
+img {
+    width: 100%;
+}
+
+button {
+    background-color: #3a0953;
+    border: none;
+    border-radius: 15px;
+    color: #fff;
+    padding: 15px 28px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-family: "kepler-std-display", serif; 
+    font-size: 16px;
+    height: 50px;
+}
+
+button:hover {
+    background-color: #fff;
+    color: #000
+}
+
+/*Homepage*/
+.collectionbox {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    clear: both;
+    margin: 35% auto 10% auto;
+    background-color: #000;
+    box-sizing: border-box;
+    padding: 40px;
+    width: 570px;
+    height: 170px
+}
+
+.collectionbutton {
+    width: 150px;
+    height: 60px;
+    font-size: 24px;
+}
+
+#myVideo {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    min-height: 100%;
+    z-index: -1;
+    margin: 0;
+    padding: 0;
+}
+
+/*Storepage*/
+.itempagemargin {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.itemimg {
+    width: 500px;
+    margin: 60px;
+}
+
+/*Itempage*/
+.itemcontent {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 300px;
+}
+
+.itemdescription {
+    width: 40%;
+    margin: 60px 40px;
+}
+
+.itempageimg {
+    width: 35%;
+    margin: 60px;
+}
+
+.itemtitle {
+    font-family: "kepler-std-display", serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 45px
+}
+
+p {
+    font-family: "kepler-std-condensed-display", serif;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 24px;
+}
+
+.addtocart {
+    width: 200px;
+    height: 60px;
+    font-family: ;
+    font-size: 20px;
+    margin-top: 20px
+}
